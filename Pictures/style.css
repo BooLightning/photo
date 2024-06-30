@@ -9,7 +9,7 @@ html {
 div {
    left: 0px;
 position: relative;
-animation: mymove 1.4s infinite;
+animation: mymove 2s;
 animation-iteration-count: 1;
 }
 
